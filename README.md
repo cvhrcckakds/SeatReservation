@@ -1,9 +1,11 @@
 <h1>Movie Theater Seat Reservation</h1>
 
 <p>
-* This simple web application allows users to select and reserve movie theater seats.
-* It also calculates the total fee based on the number of seats selected.
-* Selected couple seats will be in red color and other selected seats will be in yellow color
+This web application allows users to select and reserve movie theater seats.
+
+It also calculates the total cost based on the number of seats selected and the movie option.
+
+The selected seats will be colored red, while the reserved seats will appear in white.
 </p>
 
 <h4>Technologies Used</h4>
@@ -19,4 +21,4 @@ The following technologies were used in this project:
 
 <h3>Project Gif</h3>
 
-<img src="/SelectedCinemaSeat.gif >
+<img src="/SelectedCinemaSeat.gif>
