@@ -21,4 +21,4 @@ The following technologies were used in this project:
 
 <h3>Project Gif</h3>
 
-<img src="/SelectedCinemaSeat.gif>
+<img src="/SelectedCinemaSeat.gif">
